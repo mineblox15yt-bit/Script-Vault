@@ -7,3 +7,15 @@ Current scripts:
 - Infinite Yield [Upgraded]
 - Sus Script [R6 Only]
 - Sus Script [V2] + [OPEN SOURCE]
+
+# How to use
+
+1. Open your executor for Roblox (eg. Xeno)
+   
+   <img width="1919" height="1000" alt="image" src="https://github.com/user-attachments/assets/06d3e67a-e327-4173-ae84-d9028f11062b" />
+
+2. Copy the script you want.
+3. click attatch or inject or whatever your executor name it
+4. Place the script into your executor
+5. click the execute button or run.
+6. ENJOY!
