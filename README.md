@@ -8,6 +8,7 @@ Current scripts:
 - Sus Script [R6 Only]
 - Sus Script [V2] + [OPEN SOURCE]
 - Laser Arm [FE]
+- Super Ring Part V6
 
 # How to use
 
