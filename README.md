@@ -11,6 +11,7 @@ Current scripts:
 - Super Ring Part V6
 - Dex Explorer
 - Nuke Button
+- HD Admin EXPLOIT (SUPER OP)
 
 # How to use
 
