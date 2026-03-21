@@ -9,6 +9,8 @@ Current scripts:
 - Sus Script [V2] + [OPEN SOURCE]
 - Laser Arm [FE]
 - Super Ring Part V6
+- Dex Explorer
+- Nuke Button
 
 # How to use
 
